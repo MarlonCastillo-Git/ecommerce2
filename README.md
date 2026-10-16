@@ -1,4 +1,4 @@
-# NORTE — Frontend E-commerce (ecommerce2)
+# TAREA Optimizacion Avanzada — Frontend E-commerce (ecommerce2)
 
 Frontend Next.js 16.4 + React 19 + TypeScript que consume la API Laravel 12 existente en `../ecommerce-api`. El backend original conserva su código, base de datos y Stripe. Este directorio contiene el **frontend**; `../ecommerce-api` contiene el backend Laravel.
 
